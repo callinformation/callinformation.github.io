@@ -1,0 +1,16 @@
+{
+  "name": "CallInfo – Free Phone Number Lookup",
+  "short_name": "CallInfo",
+  "description": "Free phone number lookup & reverse phone lookup: who called, number details, scam check. Worldwide.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b0f1a",
+  "theme_color": "#7c5cff",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
