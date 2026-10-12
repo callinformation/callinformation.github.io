@@ -11,4 +11,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://callinformation.github.io/sitemap.xml

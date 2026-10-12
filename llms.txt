@@ -1,6 +1,6 @@
-# CallInfo – Free Phone Number Lookup
+# Call Information – Free Phone Number Lookup
 
-> CallInfo is a free phone number lookup and free reverse phone lookup tool (no login, no signup). Enter any phone number to find out who called: it shows the country, line type (mobile, landline, toll-free, VoIP, premium-rate), validity, and national / international / E.164 formats, with one-tap links to Truecaller, WhatsApp, Google and a scam check. Primary audience: United States; works worldwide.
+> Call Information is a free phone number lookup and free reverse phone lookup tool (no login, no signup). Enter any phone number to find out who called: it shows the country, line type (mobile, landline, toll-free, VoIP, premium-rate), validity, and national / international / E.164 formats, with one-tap links to Truecaller, WhatsApp, Google and a scam check. Primary audience: United States; works worldwide.
 
 ## Key facts
 - Price: 100% free reverse phone lookup, no signup, no paywall, no limits
@@ -20,4 +20,4 @@
 - Check this phone number / number check online / phone number details with name / identify mobile number
 
 ## Pages
-- [Home / Free phone number lookup tool](https://yourdomain.com/)
+- [Home / Free phone number lookup tool](https://callinformation.github.io/)

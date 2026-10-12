@@ -1,6 +1,6 @@
 {
-  "name": "CallInfo – Free Phone Number Lookup",
-  "short_name": "CallInfo",
+  "name": "Call Information – Free Phone Number Lookup",
+  "short_name": "Call Information",
   "description": "Free phone number lookup & reverse phone lookup: who called, number details, scam check. Worldwide.",
   "start_url": "./",
   "display": "standalone",
